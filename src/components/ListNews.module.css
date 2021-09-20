@@ -1,0 +1,10 @@
+.list_news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+
+}

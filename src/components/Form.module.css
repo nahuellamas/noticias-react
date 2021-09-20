@@ -1,0 +1,23 @@
+.heading{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.buscador{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: start;
+}
+
+.btnBlock{
+    width: 100%;
+}
+
+@media screen and (max-width:450px){
+    .heading{
+        font-size: 1rem;
+    }
+}
